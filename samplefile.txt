@@ -1,2 +1,2 @@
-i am vijay THIS IS MAVEN PROJECT
+i am Murthy THIS IS MAVEN PROJECT
 
