@@ -18,7 +18,7 @@ public class Orangehrmdemo {
 		WebDriverManager.chromedriver().setup();
 		 driver = new ChromeDriver();
 		driver.get(url);
-		
+//		System.out.println();
 	}
 
 	@Then("I enter {string} into element {string}")
