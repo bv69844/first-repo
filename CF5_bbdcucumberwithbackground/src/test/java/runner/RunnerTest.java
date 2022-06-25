@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 		,tags = "@mohan and @sanity"
 		,plugin = {"pretty", "html:.\\target\\cucumberReport\\mohan.html"}  //defaulyt cucumber report
 
-// 	MAVEN PROJECT MOHAN changed
+// 	MAVEN PROJECT dinesh changed
 
 
 		)
