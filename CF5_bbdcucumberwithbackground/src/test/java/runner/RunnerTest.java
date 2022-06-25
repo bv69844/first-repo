@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 		,monochrome = true
 		,tags = "@mohan and @sanity"
 		,plugin = {"pretty", "html:.\\target\\cucumberReport\\mohan.html"}  //defaulyt cucumber report
-// 	MAVEN PROJECT VIJAY changed
+// 	MAVEN PROJECT MOHAN changed
 
 		)
 public class RunnerTest {
